@@ -1,0 +1,23 @@
+# Node.js and npm
+node_modules/
+package-lock.json
+
+# Environment Variables
+.env
+
+# Build Files
+build/
+
+# Logs
+logs/
+*.log
+
+# IDE Specific
+.vscode/
+.idea/
+*.swp
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
