@@ -26,7 +26,7 @@ This is a website that retrieves real-time train location (almost, as it is set 
 
 ## Setup Instructions
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/train-LiveLocation.git
+   git clone https://github.com/FinnsquirolCentria/train-LiveLocation.git
 2. Navigate to the project directory:
     cd trainLocation-map
 3. Install necessary dependencies 
