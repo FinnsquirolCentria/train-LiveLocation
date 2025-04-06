@@ -26,15 +26,16 @@ This is a website that retrieves real-time train location (almost, as it is set 
 
 ## Setup Instructions
 1. Clone this repository to your local machine:
-   git clone https://github.com/FinnsquirolCentria/train-LiveLocation.git
+    - git clone https://github.com/FinnsquirolCentria/train-LiveLocation.git
 2. Navigate to the project directory:
-    cd trainLocation-map
+    - cd train-LiveLocation
+    - cd trainlocation-map
 3. Install necessary dependencies 
-    npm install
+    - npm install
 4. Start the server:
-    npm start
+    - npm start
 5. It will probably open the website automatically. If not, visit:
-    http://localhost:3000 to use it
+    - http://localhost:3000
 
 ## API 
 - Train Locations:
